@@ -27,4 +27,4 @@ Dosya dizinini ulaşın ya da proje klasöürün içersinden sağ tıklayaraj gi
  #License-Lisans
 
 
-[link burada]([http://google.fr "google"](https://choosealicense.com/licenses/mit/))
+[MIT](https://choosealicense.com/licenses/mit/)
