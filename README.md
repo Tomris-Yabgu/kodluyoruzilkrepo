@@ -25,4 +25,4 @@ Dosya dizinini ulaşın ya da proje klasöürün içersinden sağ tıklayaraj gi
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
  
  #License-Lisans
-https://choosealicense.com/licenses/mit/
+https://choosealicense.com/licenses/mit/<link>
