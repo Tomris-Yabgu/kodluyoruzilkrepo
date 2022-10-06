@@ -24,7 +24,5 @@ Dosya dizinini ulaşın ya da proje klasöürün içersinden sağ tıklayaraj gi
  
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
  
- #License-Lisans
-
-
+ # License-Lisans
 [MIT](https://choosealicense.com/licenses/mit/)
